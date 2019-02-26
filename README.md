@@ -5,6 +5,8 @@ I have implemented 2 approaches: Tracking and Re-identification.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*-WkySYuR7koWY3g_Ikec2A.gif)
 
+[Additional documentation](https://docs.google.com/document/d/1SKYwn4i9t2PlAisoMi7N8Fb6EAc73WSKt04jQUmlZYQ/edit?usp=sharing)
+
 ## Approach 1: Re-identification
 
 This is the code `baseline.py`.
